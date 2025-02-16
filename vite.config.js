@@ -16,6 +16,6 @@ export default defineConfig({
   server: {port: 7896
   },
   preview: {
-    allowedHosts: 'suowuupload.zeabur.app',
+    allowedHosts: ['suowuupload.zeabur.app'],
   },
 })
